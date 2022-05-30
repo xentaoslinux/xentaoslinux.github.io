@@ -11285,4 +11285,6 @@ textarea.form-control-lg {
   .d-print-none {
     display: none !important;
   }
-}
+}.zebra-table {width: 100%;border-collapse: collapse;box-shadow: 0 2px 3px 1px ;overflow: hidden;border:0px solid ;}
+.zebra-table th,.zebra-table td{vertical-align: top;padding:10px 7px;text-align: left;margin:0;}
+.zebra-table tbody tr:nth-child(odd) {background:;}
